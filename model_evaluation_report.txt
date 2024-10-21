@@ -1,0 +1,33 @@
+Random Forest Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56656
+           1       0.98      0.53      0.69        90
+
+    accuracy                           1.00     56746
+   macro avg       0.99      0.77      0.85     56746
+weighted avg       1.00      1.00      1.00     56746
+
+
+Decision Tree Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56656
+           1       0.64      0.52      0.57        90
+
+    accuracy                           1.00     56746
+   macro avg       0.82      0.76      0.79     56746
+weighted avg       1.00      1.00      1.00     56746
+
+
+SVC Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56656
+           1       0.98      0.51      0.67        90
+
+    accuracy                           1.00     56746
+   macro avg       0.99      0.76      0.84     56746
+weighted avg       1.00      1.00      1.00     56746
+
+
